@@ -1,0 +1,1 @@
+Add `MAPBOX_ACCESS_TOKEN` in .env
