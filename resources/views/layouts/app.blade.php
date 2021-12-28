@@ -9,16 +9,8 @@
     <meta name="keywords" content="laravel,map,mapbox,leaflet,laravel map,laravel maps,laravel leaflet,laravel mapbox" />
     <meta name="author" content="bagusindrayana" />
 
-
-    <link
-      href="https://unpkg.com/tailwindcss/dist/tailwind.min.css"
-      rel="stylesheet"
-    />
-
-    <link
-      href="https://unpkg.com/@tailwindcss/custom-forms/dist/custom-forms.min.css"
-      rel="stylesheet"
-    />
+    
+    <script src="https://cdn.tailwindcss.com"></script>
    
     <style>
       @import url("https://rsms.me/inter/inter.css");
